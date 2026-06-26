@@ -1,0 +1,199 @@
+
+Name: MOENA
+Title: Front-End Developer | Creative Designer | Future Software Engineer
+Tagline: Transforming ideas into beautiful digital experiences.
+
+Summary
+Aspiring front-end developer focused on building engaging, accessible, and user-friendly websites.
+
+Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Responsive Design
+- UI/UX Thinking
+
+Experience
+- Personal portfolio projects
+- Responsive landing pages
+- Interactive JavaScript applications
+- Creative digital design concepts
+
+Education
+- Front-End Development and Creative Web Design
+- Graduation Year: 2026
+
+Contact
+- Email: moenabudul@gmail.com
+# MOENA
+
+**Front-End Developer | Creative Designer | Aspiring Software Engineer**
+
+📍 Nairobi, Kenya
+📧 [moenabudul@gmail.com](mailto:moenabudul@gmail.com)
+📱 +254 99943342
+🔗 LinkedIn: linkedin.com/in/moena
+🔗 GitHub: github.com/monologue
+
+---
+
+# PROFESSIONAL SUMMARY
+
+Motivated and detail-oriented Front-End Developer with a strong foundation in HTML, CSS, JavaScript, Git, and GitHub. Passionate about creating responsive, user-friendly, and visually appealing web applications that deliver exceptional user experiences. Known for being highly responsible, adaptable, and committed to completing tasks to a high standard. Possesses strong problem-solving abilities, excellent teamwork skills, and a continuous desire to learn emerging technologies.
+
+Dedicated to transforming creative ideas into functional digital solutions while maintaining professionalism, reliability, and attention to detail. Seeking opportunities to contribute technical skills, creativity, and a strong work ethic in a dynamic technology environment.
+
+---
+
+# CAREER OBJECTIVE
+
+To build a successful career in software development by continuously improving technical skills, gaining practical industry experience, and contributing to innovative projects that create positive impacts. My goal is to become a highly skilled Software Engineer recognized for creativity, technical excellence, leadership, and commitment to quality.
+
+---
+
+# EDUCATION
+
+## Kenya Certificate of Secondary Education (KCSE)
+
+**Secondary School, Kenya**
+Completed Secondary Education
+
+Relevant Areas of Study:
+
+* Mathematics
+* Computer Studies
+* English
+* Business Studies
+
+### Academic Highlights
+
+* Demonstrated strong analytical and problem-solving abilities.
+* Participated actively in school projects and collaborative activities.
+* Developed effective communication and leadership skills through school programs.
+
+---
+
+# TECHNICAL SKILLS
+
+### Front-End Development
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+### Version Control
+
+* Git
+* GitHub
+
+### Web Development Skills
+
+* Responsive Web Design
+* DOM Manipulation
+* Arrays and Loops
+* Form Validation
+* User Interface Design
+* Website Optimization
+
+### Design & Productivity
+
+* Canva
+* Microsoft Office Suite
+* Google Workspace
+
+---
+
+# PROJECTS
+
+## Personal Portfolio Website
+
+Designed and developed a fully responsive portfolio website showcasing skills, projects, achievements, and professional information.
+
+**Technologies Used:** HTML, CSS, JavaScript, GitHub
+
+### Key Achievements:
+
+* Implemented responsive layouts for mobile and desktop devices.
+* Created interactive navigation and theme-switching functionality.
+* Applied modern UI/UX principles for an engaging user experience.
+
+---
+
+## Interactive To-Do List Application
+
+Built a dynamic task management application using JavaScript.
+
+### Key Features:
+
+* Add and delete tasks
+* Dynamic DOM updates
+* User-friendly interface
+
+**Technologies Used:** HTML, CSS, JavaScript
+
+---
+
+## Creative Digital Birthday Presentation
+
+Designed and developed an animated Spider-Man-themed digital birthday card presentation.
+
+### Key Achievements:
+
+* Created engaging animations and visual effects.
+* Applied creative storytelling techniques.
+* Designed an interactive user experience.
+
+---
+
+## Responsive Landing Page Project
+
+Developed a modern business landing page emphasizing usability, accessibility, and responsive design.
+
+**Technologies Used:** HTML, CSS, JavaScript
+
+---
+
+# ACHIEVEMENTS
+
+* Successfully completed multiple front-end web development projects.
+* Developed strong proficiency in responsive web design principles.
+* Demonstrated excellent time-management and organizational skills while balancing academic and personal projects.
+* Built and maintained professional coding projects using Git and GitHub.
+* Consistently recognized for responsibility, reliability, and commitment to high-quality work.
+* Developed creative digital solutions that combine functionality with appealing visual design.
+* Continuously self-learning and expanding knowledge in modern web development technologies.
+
+---
+
+# LEADERSHIP & PERSONAL QUALITIES
+
+* Responsible and dependable
+* Strong work ethic
+* Excellent communication skills
+* Team player
+* Quick learner
+* Problem solver
+* Creative thinker
+* Adaptable and resilient
+* Strong attention to detail
+* Professional attitude
+
+---
+
+# INTERESTS
+
+* Front-End Development
+* User Interface (UI) Design
+* User Experience (UX) Design
+* Software Engineering
+* Emerging Technologies
+* Digital Creativity
+* Web Application Development
+
+---
+
+# REFERENCES
+
+Available upon request.
