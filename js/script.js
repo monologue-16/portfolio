@@ -12,7 +12,7 @@ const projectData = [
   {
     title: 'Brick & Beam Real Estate Showcase',
     category: 'web',
-    image: 'assets/real_estate.png',
+    image: 'assets/IMG_1747.jpeg',
     description: 'A premium real estate platform showcasing luxury properties, complete with dynamic search filters, detail modals, and responsive layouts.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/',
