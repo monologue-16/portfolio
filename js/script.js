@@ -22,7 +22,7 @@ const projectData = [
   {
     title: 'Elite American Academy Portal',
     category: 'web',
-    image: 'assets/academy.png',
+    image: 'assets/IMG_1752.jpeg',
     description: 'A comprehensive and responsive academic portal featuring institutional information, curriculum showcases, student leadership highlights, and structured layouts.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/',
