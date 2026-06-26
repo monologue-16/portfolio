@@ -2,7 +2,7 @@ const projectData = [
   {
     title: 'CyberShield Awareness Portal',
     category: 'web',
-    image: 'assets/cybersecurity.png',
+    image: 'assets/IMG_1754.jpeg',
     description: 'An interactive security education platform designed to train users on password safety, phishing prevention, and digital hygiene.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/',
